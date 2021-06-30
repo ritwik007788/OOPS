@@ -5,16 +5,16 @@ public class Main {
 	public static void main(String[] args) {
 		
 //		Person p1 = new Person();
-//		Person p2 = new Person(27,"Raunak");
-//		p1.age = 21;
-//		p1.name = "Ritwik";
+//		Person p2 = new Person(25,"Zack");
+//		p1.age = 28;
+//		p1.name = "David";
 		
 //		p1.walk();
 //		p1.walk(1000);
 //		p2.walk();
 //		System.out.println(Person.count);
 		
-		Developer d1 = new Developer(21,"Hasu");
+		Developer d1 = new Developer(30,"Lee");
 		d1.walk(); // run - time polymorphism
 
 		
